@@ -1,1 +1,1 @@
-web: gunicorn 'django-crud.wsgi'
+web: gunicorn 'crudproject.wsgi'
